@@ -80,9 +80,9 @@ exp6.txt
 t1 = a + b
 t2 = t1 - c
 
-``  
+```  
 
-# OUTPUT
+# Output
 
 ![Screenshot 2025-05-09 111833](https://github.com/user-attachments/assets/5f3d2633-ba89-48d6-8739-4abc8b6f7644)
 
